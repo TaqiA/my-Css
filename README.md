@@ -19,6 +19,7 @@ color:red;
 <body>
 
 Name:Taqi Abbas<br>
+BS in Information Technology<br>
 Years:
 <span id="age">1</span>
 
